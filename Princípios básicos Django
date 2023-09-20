@@ -1,0 +1,7 @@
+O Django adota o padrão MTV, que se desdobra nos seguintes elementos:
+
+Model: Esta é a camada onde ocorre a interação com o banco de dados, tratando dos dados subjacentes.
+
+Template: Aqui, ocorre a interação do usuário com a aplicação Django, com a renderização dos dados para proporcionar uma experiência mais intuitiva.
+
+View: A camada de View é onde o programador define as regras que serão aplicadas na aplicação, sendo também conhecida como a camada lógica da aplicação.
